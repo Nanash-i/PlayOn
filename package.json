@@ -1,0 +1,16 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "A movie-app developed during backend learning phase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "javascript",
+    "Video-platform"
+  ],
+  "author": "Praveen Das",
+  "license": "ISC"
+}
